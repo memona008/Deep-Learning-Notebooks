@@ -1,2 +1,2 @@
 # Deep-Learning-Notebooks
-Dataset used: https://www.kaggle.com/biaiscience/dogs-vs-cats/
+For Dogs vs Cats Problem: Dataset used: https://www.kaggle.com/biaiscience/dogs-vs-cats/
